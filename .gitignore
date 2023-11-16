@@ -1,2 +1,4 @@
 *.o
 *.mp4
+*.onnx
+*.engine

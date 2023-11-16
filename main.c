@@ -187,7 +187,7 @@ int main (int argc, char *argv[]){
   g_object_set (
       G_OBJECT (pgie),
       "config-file-path", 
-      "/opt/nvidia/deepstream/deepstream/sources/apps/sample_apps/deepstream-test1/dstest1_pgie_config.txt", 
+      "/home/nawin/Projects/nunnari-labs/model_config.txt", 
       NULL
     );
 
